@@ -3,9 +3,8 @@ echo "*/* $(cpuid2cpuflags)" > /etc/portage/package.use/00cpu-flags <br />
 
 mkdir -p /etc/portage/env && cp -v compiler-gcc /etc/portage/env/compiler-gcc <br />
 
-echo "sys-libs/efivar" >> /etc/portage/package.env <br />
-echo "dev-libs/jansson" >> /etc/portage/package.env <br />
-echo "sys-devel/gcc" >> /etc/portage/package.env <br />
+echo "sys-libs/efivar compiler-gcc" >> /etc/portage/package.env <br />
+echo "dev-libs/jansson compiler-gcc" >> /etc/portage/package.env <br />
 
 echo "sys-devel/gcc ~amd64" >> /etc/portage/package.accept_keywords/zfs <br />
 echo "sys-kernel/spl ~amd64" >> /etc/portage/package.accept_keywords/zfs <br />
