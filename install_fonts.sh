@@ -1,9 +1,8 @@
-emerge media-fonts/termsyn \
-  media-fonts/terminus-font \
+emerge media-fonts/terminus-font \
   media-fonts/ttf-bitstream-vera \
   media-fonts/croscorefonts \ 
   media-fonts/dejavu \
-  media-fonts/drod \
+  media-fonts/droid \
   media-fonts/freefonts \
   media-fonts/ibm-plex \
   media-fonts/liberation-fonts \
