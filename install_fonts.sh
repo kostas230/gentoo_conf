@@ -18,4 +18,10 @@ emerge media-fonts/terminus-font \
   media-fonts/source-code-pro \
   media-fonts/open-sans \
   media-fonts/sil-gentium \
-  media-fonts/cm-unicode
+  media-fonts/cm-unicode \
+  media-fonts/arphicfonts \
+  media-fonts/ipamonafont \
+  media-fonts/ja-ipafonts \
+  media-fonts/takao-fonts \
+  media-fonts/wqy-microhei \
+  media-fonts/wqy-zenhei
