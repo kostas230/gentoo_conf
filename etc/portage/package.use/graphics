@@ -1,45 +1,45 @@
-media-video/ffmpeg chromium hardcoded-tables libxml12 network opencl openssl postproc vulkan libdrm amr codec2 dav1d fdk jpegxl bluray gme libaribb24 mmal libilbc librtmp srt vpx zvbi bs2b chromaprint vmaf fribidi lcms libplacebo libtesseract lv2 vidstab rubberband zeromq zimglibsoxr amf amrenc kvazaar libaom openh264 rav1e snappy svt-av1 twolamd x265 mipsdspr1 mipsdspr2 mipfspu cpudetection
-x11-libs/libX11 abi_x86_32
-x11-libs/libXau abi_x86_32
-x11-libs/libxcb abi_x86_32
-x11-libs/libXdmcp abi_x86_32
-dev-libs/libbsd abi_x86_32
+app-arch/bzip2 abi_x86_32
+app-arch/zstd abi_x86_32
 app-crypt/libmd abi_x86_32
-virtual/opengl abi_x86_32
-media-libs/mesa abi_x86_32
+app-emulation/dxvk d3d9 d3d10 d3d11 dxgi abi_x86_32
+app-emulation/vkd3d abi_x86_32
+dev-libs/libbsd abi_x86_32
 dev-libs/expat abi_x86_32
-media-libs/libglvnd abi_x86_32
+dev-libs/libffi abi_x86_32
+dev-libs/elfutils abi_x86_32
+dev-libs/opencl-icd-loader abi_x86_32
+dev-util/vulkan-tools abi_x86_32
+dev-util/spirv-tools abi_x86_32
+dev-util/glslang abi_x86_32
+dev-util/directx-headers abi_x86_32 
+sys-apps/lm-sensors abi_x86_32
+sys-devel/llvm abi_x86_32
+sys-devel/clang abi_x86_32
 sys-libs/zlib abi_x86_32
+sys-libs/ncurses abi_x86_32
+virtual/opengl abi_x86_32
+virtual/libelf abi_x86_32
+virtual/opencl abi_x86_32
+media-libs/mesa abi_x86_32
+media-libs/libglvnd abi_x86_32
 media-libs/libva abi_x86_32
+media-libs/mesa abi_x86_32
+media-libs/leptonica tiff
+media-libs/vulkan-loader layer abi_x86_32
+media-libs/vulkan-layers abi_x86_32
+media-video/ffmpeg chromium hardcoded-tables libxml12 network opencl openssl postproc vulkan libdrm amr codec2 dav1d fdk jpegxl bluray gme libaribb24 mmal libilbc librtmp srt vpx zvbi bs2b chromaprint vmaf fribidi lcms libplacebo libtesseract lv2 vidstab rubberband zeromq zimglibsoxr amf amrenc kvazaar libaom openh264 rav1e snappy svt-av1 twolamd x265 mipsdspr1 mipsdspr2 mipfspu cpudetection
+x11-drivers/nvidia-drivers driver static-libs tools compat abi_x86_32
+x11-libs/libXvMC abi_x86_32
+x11-libs/libXv abi_x86_32
+x11-libs/libXrandr abi_x86_32
+x11-libs/libXrender abi_x86_32
 x11-libs/libvdpau abi_x86_32
 x11-libs/libdrm abi_x86_32
 x11-libs/libxshmfence abi_x86_32
 x11-libs/libXext abi_x86_32
 x11-libs/libXxf86vm abi_x86_32
 x11-libs/libXfixes abi_x86_32
-app-arch/zstd abi_x86_32
-sys-devel/llvm abi_x86_32
-x11-libs/libXrandr abi_x86_32
-x11-libs/libXrender abi_x86_32
-dev-libs/libffi abi_x86_32
-sys-libs/ncurses abi_x86_32
-virtual/libelf abi_x86_32
-dev-libs/elfutils abi_x86_32
-app-arch/bzip2 abi_x86_32
-media-libs/mesa abi_x86_32
-sys-apps/lm-sensors abi_x86_32
-x11-libs/libXvMC abi_x86_32
-x11-libs/libXv abi_x86_32
-sys-devel/clang abi_x86_32
-dev-util/directx-headers abi_x86_32 
-media-libs/leptonica tiff
-virtual/opencl abi_x86_32
-dev-libs/opencl-icd-loader abi_x86_32
-app-emulation/vkd3d abi_x86_32
-media-libs/vulkan-loader layer abi_x86_32
-media-libs/vulkan-layers abi_x86_32
-dev-util/vulkan-tools abi_x86_32
-dev-util/spirv-tools abi_x86_32
-dev-util/glslang abi_x86_32
-x11-drivers/nvidia-drivers driver static-libs tools compat abi_x86_32
-app-emulation/dxvk d3d9 d3d10 d3d11 dxgi abi_x86_32
+x11-libs/libX11 abi_x86_32
+x11-libs/libXau abi_x86_32
+x11-libs/libxcb abi_x86_32
+x11-libs/libXdmcp abi_x86_32
