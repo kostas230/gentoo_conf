@@ -3,10 +3,11 @@ app-arch/zstd abi_x86_32
 app-crypt/libmd abi_x86_32
 app-emulation/dxvk d3d9 d3d10 d3d11 dxgi abi_x86_32
 app-emulation/vkd3d abi_x86_32
-dev-libs/libbsd abi_x86_32
-dev-libs/expat abi_x86_32
-dev-libs/libffi abi_x86_32
 dev-libs/elfutils abi_x86_32
+dev-libs/expat abi_x86_32
+dev-libs/icu abi_x86_32
+dev-libs/libbsd abi_x86_32
+dev-libs/libffi abi_x86_32
 dev-libs/opencl-icd-loader abi_x86_32
 dev-util/vulkan-tools abi_x86_32
 dev-util/spirv-tools abi_x86_32
