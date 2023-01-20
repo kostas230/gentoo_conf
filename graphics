@@ -36,8 +36,10 @@ media-libs/leptonica tiff
 virtual/opencl abi_x86_32
 dev-libs/opencl-icd-loader abi_x86_32
 app-emulation/vkd3d abi_x86_32
-media-libs/vulkan-loader abi_x86_32
+media-libs/vulkan-loader layer abi_x86_32
 media-libs/vulkan-layers abi_x86_32
 dev-util/vulkan-tools abi_x86_32
 dev-util/spirv-tools abi_x86_32
 dev-util/glslang abi_x86_32
+x11-drivers/nvidia-drivers driver static-libs tools compat abi_x86_32
+app-emulation/dxvk d3d9 d3d10 d3d11 dxgi abi_x86_32
