@@ -1,0 +1,2 @@
+media-libs/vulkan-loader layer
+app-emulation/dxvk d3d9 d3d10 d3d11 dxgi
