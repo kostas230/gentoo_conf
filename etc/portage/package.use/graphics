@@ -15,7 +15,7 @@ dev-util/directx-headers abi_x86_32
 sys-apps/lm-sensors abi_x86_32
 sys-devel/llvm abi_x86_32
 sys-devel/clang abi_x86_32
-sys-libs/zlib abi_x86_32
+sys-libs/zlib minizip abi_x86_32
 sys-libs/ncurses abi_x86_32
 virtual/opengl abi_x86_32
 virtual/libelf abi_x86_32
