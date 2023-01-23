@@ -1,0 +1,6 @@
+media-sound/pulseaudio daemon glib ofono-headset 
+media-sound/pulseaudio-daemon alsa-plugins aptx asyncns equalizer fftw gdbm glib gstreamer ldac ofono-headset ssl webrtc-aec tcpd zeroconf
+media-plugins/alsa-plugin
+media-libs/alsa-lib abi_x86_32
+media-libs/openal abi_x86_32
+media-libs/libpulse abi_x86_32

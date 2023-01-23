@@ -1,0 +1,2 @@
+x11-base/xorg-server elogind suid udev unwind xcsecurity xephyr xnest xorg xvfb
+dev-qt/qtgui jpeg dbus

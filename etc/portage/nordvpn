@@ -1,0 +1,3 @@
+net-vpn/nordvpn ipsymlink
+net-dialup/ppp ipv6
+net-firewall/nftables xtables json python
