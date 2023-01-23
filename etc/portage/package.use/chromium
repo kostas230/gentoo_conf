@@ -1,6 +1,6 @@
-dev-libs/libxml2 icu
-media-libs/harfbuzz icu
-net-libs/nodejs inspector
-app-text/xmlto text
-www-client/chromium -hangouts proprietary-codecs suidsystem-av1 system-ffmpeg system-harfbuzz system-icu system-png widevine custom-cflags system-ffmpeg
-app-text/ghostscript-gpl cups
+app-text/ghostscript-gpl cups 
+app-text/xmlto text 
+dev-libs/libxml2 icu 
+net-libs/nodejs inspector 
+media-libs/harfbuzz icu 
+www-client/chromium -hangouts proprietary-codecs suidsystem-av1 system-ffmpe    g system-harfbuzz system-icu system-png widevine custom-cflags system-ffmpeg
