@@ -1,0 +1,211 @@
+###########################################
+
+app-arch/bzip2 abi_x86_32
+app-arch/zstd abi_x86_32
+app-crypt/libmd abi_x86_32
+app-emulation/dxvk abi_x86_32
+dev-libs/elfutils abi_x86_32
+dev-libs/expat abi_x86_32
+dev-libs/icu abi_x86_32
+dev-libs/libbsd abi_x86_32
+dev-libs/libffi abi_x86_32
+dev-libs/opencl-icd-loader abi_x86_32
+dev-util/vulkan-tools abi_x86_32
+dev-util/spirv-tools abi_x86_32
+dev-util/glslang abi_x86_32
+dev-util/directx-headers abi_x86_32 
+sys-apps/lm-sensors abi_x86_32
+sys-devel/llvm abi_x86_32
+sys-devel/clang abi_x86_32
+sys-libs/zlib abi_x86_32
+sys-libs/ncurses abi_x86_32
+virtual/opengl abi_x86_32
+virtual/libelf abi_x86_32
+virtual/opencl abi_x86_32
+media-libs/mesa abi_x86_32
+media-libs/libglvnd abi_x86_32
+media-libs/libva abi_x86_32
+media-libs/vulkan-loader abi_x86_32
+media-libs/vulkan-layers abi_x86_32
+x11-drivers/nvidia-drivers abi_x86_32
+x11-libs/libXvMC abi_x86_32
+x11-libs/libXv abi_x86_32
+x11-libs/libXrandr abi_x86_32
+x11-libs/libXrender abi_x86_32
+x11-libs/libvdpau abi_x86_32
+x11-libs/libdrm abi_x86_32
+x11-libs/libxshmfence abi_x86_32
+x11-libs/libXext abi_x86_32
+x11-libs/libXxf86vm abi_x86_32
+x11-libs/libXfixes abi_x86_32
+x11-libs/libX11 abi_x86_32
+x11-libs/libXau abi_x86_32
+x11-libs/libxcb abi_x86_32
+x11-libs/libXdmcp abi_x86_32
+app-emulation/vkd3d abi_x86_32
+app-emulation/vkd3d-proton abi_x86_32
+dev-libs/gmp abi_x86_32
+dev-libs/libgcrypt abi_x86_32
+media-libs/freetype abi_x86_32
+x11-libs/libXcursor abi_x86_32
+x11-libs/libXi abi_x86_32
+media-libs/fontconfig abi_x86_32
+media-libs/libsdl2 abi_x86_32
+net-libs/gnutls abi_x86_32
+sys-apps/dbus abi_x86_32
+media-libs/libv4l abi_x86_32
+x11-libs/libXcomposite abi_x86_32
+x11-libs/libXinerama abi_x86_32
+dev-libs/glib abi_x86_32
+media-libs/gst-plugins-base abi_x86_32
+media-libs/gstreamer abi_x86_32
+sys-libs/libunwind abi_x86_32
+dev-libs/libusb abi_x86_32
+media-plugins/gst-plugins-meta abi_x86_32
+media-sound/pulseaudio abi_x86_32
+media-libs/alsa-lib abi_x86_32 
+media-libs/openal abi_x86_32 
+media-libs/libpulse abi_x86_32 
+dev-libs/libgpg-error abi_x86_32
+media-libs/libpng abi_x86_32
+sys-apps/util-linux abi_x86_32
+dev-libs/libpcre2 abi_x86_32
+dev-libs/libtasn1 abi_x86_32
+dev-libs/libunistring abi_x86_32
+dev-libs/nettle abi_x86_32
+net-dns/libidn2 abi_x86_32
+sys-libs/libcap abi_x86_32
+sys-libs/pam abi_x86_32
+media-libs/libogg abi_x86_32
+dev-lang/orc abi_x86_32
+x11-libs/pango abi_x86_32
+media-libs/libvorbis abi_x86_32
+media-libs/graphene abi_x86_32
+media-libs/libjpeg abi_x86_32
+dev-libs/fribidi abi_x86_32
+media-libs/harfbuzz abi_x86_32
+x11-libs/cairo abi_x86_32
+x11-libs/libXft abi_x86_32
+dev-libs/lzo abi_x86_32
+x11-libs/pixman abi_x86_32
+media-gfx/graphite2 abi_x86_32
+media-libs/libsndfile abi_x86_32
+net-libs/libasyncns abi_x86_32
+media-libs/flac abi_x86_32
+media-libs/opus abi_x86_32 
+media-sound/lame abi_x86_32
+media-sound/mpg123 abi_x86_32
+virtual/libintl abi_x86_32
+virtual/glu abi_x86_32
+virtual/libiconv abi_x86_32
+media-libs/libjpeg-turbo abi_x86_32
+media-libs/glu abi_x86_32
+media-libs/gst-plugins-good abi_x86_32
+media-plugins/gst-plugins-opus abi_x86_32
+media-plugins/gst-plugins-pulse abi_x86_32
+media-plugins/gst-plugins-v4l2 abi_x86_32
+media-plugins/gst-plugins-vaapi abi_x86_32
+media-libs/gst-plugins-bad abi_x86_32
+virtual/jpeg abi_x86_32
+virtual/libudev abi_x86_32
+sys-apps/systemd-utils abi_x86_32
+dev-cpp/tbb abi_x86_32
+dev-libs/openssl-compat abi_x86_32
+app-arch/xz-utils abi_x86_32
+media-plugins/gst-plugins-flac abi_x86_32
+media-plugins/gst-plugins-assrender abi_x86_32
+media-plugins/gst-plugins-modplug abi_x86_32
+media-libs/gst-plugins-ugly abi_x86_32
+media-plugins/gst-plugins-mpg123 abi_x86_32
+media-plugins/gst-plugins-x264 abi_x86_32
+media-libs/x264 abi_x86_32
+media-libs/libmodplug abi_x86_32
+media-libs/libass abi_x86_32
+
+###########################################
+############## libraries ##################
+###########################################
+
+app-emulation/dxvk d3d9 d3d10 d3d11 dxgi 
+sys-libs/zlib minizip 
+media-libs/mesa xa zink osmesa 
+media-libs/leptonica tiff
+media-libs/vulkan-loader layer 
+media-video/ffmpeg chromium hardcoded-tables libxml12 network opencl openssl postproc vulkan libdrm amr codec2 dav1d fdk jpegxl bluray gme libaribb24 mmal libilbc librtmp srt vpx zvbi bs2b chromaprint vmaf fribidi lcms libplacebo libtesseract lv2 vidstab rubberband zeromq zimglibsoxr amf amrenc kvazaar libaom openh264 rav1e snappy svt-av1 twolamd x265 mipsdspr1 mipsdspr2 mipfspu cpudetection
+x11-drivers/nvidia-drivers driver static-libs tools compat 
+x11-libs/libdrm video_cards_radeon 
+app-emulation/vkd3d-proton extras 
+app-emulation/wine-proton mono osmesa perl sdl vkd3d alsa debug fontconfig gstreamer nls openal pulseaudio ssl udisks unwind usb v4l xcomposite xinerama
+media-libs/libsdl2 haptic 
+media-sound/pulseaudio daemon glib ofono-headset 
+media-sound/pulseaudio-daemon alsa-plugins aptx asyncns equalizer fftw gdbm glib gstreamer ldac ofono-headset ssl webrtc-aec tcpd zeroconf 
+media-plugins/alsa-plugin 
+media-libs/opus ogg
+media-libs/libvpx postproc
+
+###########################################
+############## bluetooth ##################
+###########################################
+
+net-wireless/bluez deprecated
+
+###########################################
+############## chromium ###################
+###########################################
+
+app-text/ghostscript-gpl cups
+app-text/xmlto text
+dev-libs/libxml2 icu
+net-libs/nodejs inspector
+media-libs/harfbuzz icu
+www-client/chromium -hangouts proprietary-codecs suidsystem-av1 system-ffmpeg system-harfbuzz system-icu system-png widevine custom-cflags system-ffmpeg
+
+###########################################
+############## compiler ###################
+###########################################
+
+sys-devel/gcc pgo lto
+
+###########################################
+############## desktop ####################
+###########################################
+
+dev-libs/libdbusmenu gtk3
+dev-qt/qtcore icu
+x11-terms/xterm Xaw3d sixel truetype unicode xinerama
+
+###########################################
+############## kernel #####################
+###########################################
+
+sys-kernel/gentoo-sources experimental
+
+###########################################
+############## network ####################
+###########################################
+
+net-vpn/nordvpn ipsymlink
+net-dialup/ppp ipv6
+net-firewall/nftables xtables json python
+net-fs/samba client
+
+###########################################
+############## office #####################
+###########################################
+
+app-office/libreoffice gtk pdfimport
+dev-libs/xmlsec nss
+app-text/poppler cairo 
+app-crypt/gcr gtk 
+app-text/evince djvu dvi gnome postscript tiff xps
+app-text/texlive X cjk context extra games graphics humanities luatex metapost music pdfannotextractor png pstricks publishers science tex4ht texi2html truetype xetex xml
+app-text/texlive-core cjk xetex
+dev-qt/qtwebengine widgets 
+dev-qt/qtwebchannel qml 
+
+###########################################
+############## xorg #######################
+###########################################
+
+x11-base/xorg-server elogind suid udev unwind xcsecurity xephyr xnest xorg xvfb
+dev-qt/qtgui jpeg dbus
