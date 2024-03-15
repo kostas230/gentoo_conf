@@ -25,3 +25,4 @@ dev-qt/qttools opengl
 www-client/firefox X dbus geckodriver hwaccel jack libproxy lto pgo pulseaudio system-av1 system-harfbuzz system-icu system-jpeg openh264 hardened 
 media-libs/libvpx postproc
 media-libs/libpng apng
+media-libs/phonon -vlc pulseaudio gstreamer
