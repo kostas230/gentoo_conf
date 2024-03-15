@@ -1,4 +1,4 @@
-sys-devel/clang-common abi_x86_32 default-compiler-rt default-lld llvm-libunwind default-libcxx
+sys-devel/clang-common abi_x86_32 default-compiler-rt default-lld llvm-libunwind
 sys-devel/llvm abi_x86_32
 sys-devel/lld abi_x86_32
 sys-devel/clang abi_x86_32
