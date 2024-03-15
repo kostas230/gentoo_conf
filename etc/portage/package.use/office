@@ -1,5 +1,0 @@
-app-office/libreoffice gtk pdfimport
-dev-libs/xmlsec nss
-app-text/poppler cairo 
-app-crypt/gcr gtk 
-app-text/evince djvu dvi gnome postscript tiff xps

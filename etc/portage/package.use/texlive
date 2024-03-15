@@ -1,4 +1,0 @@
-app-text/texlive X cjk context extra games graphics humanities luatex metapost music pdfannotextractor png pstricks publishers science tex4ht texi2html truetype xetex xml
-app-text/texlive-core cjk xetex
-dev-qt/qtwebengine widgets 
-dev-qt/qtwebchannel qml 
