@@ -1,0 +1,8 @@
+media-video/ffmpeg alsa amr amrenc appkit bluray bs2b cdio chromaprint chromium codec2 cpudetection cuda fdk flite fontconfig frei0r fribidi gcrypt glslang gme hardcoded-tables iec61883 ieee1394 jack kvazaar libaom libaribb24 libdrm libilbc librtmp libsoxr libtesseract libxml2 lv2 mipsdspr1 mipsdspr2 mipsfpu mmal openal opengl openh264 openssl opus oss pulseaudio qsv rav1e rubberband snappy sndio speex srt ssh static-libs svg svt-av1 theora truetype twolame vidstab vmaf vpx zeromq zvbi amf
+media-libs/leptonica tiff
+media-libs/opencv contribdnn
+media-libs/freetype harfbuzz
+app-crypt/gcr gtk
+#media-video/vlc aom aribsub bluray dav1d encode faad fdk gstreamer kate kms lua matroska mpeg nfs omxil sdl-image srt x265 x264 zvbi a52 alsa bidi dbus dts ffmpeg flac fontconfig gui libass libcaca mp3 ogg opus png pulseaudio truetype v4l vaapi vdpau
+media-video/pipewire extra
+media-video/mpv X alsa bluray cdda cli drm dvb dvd egl iconv jack jpeg lcms libcaca libmpv lua nvenc openal opengl pipewire pulseaudio rubberband sdl sixel sndio soc tools uchardet zlib
