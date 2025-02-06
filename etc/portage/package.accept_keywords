@@ -1,0 +1,8 @@
+x11-drivers/nvidia-drivers ~amd64
+media-libs/mesa ~amd64
+dev-util/intel_clc ~amd64
+gui-libs/egl-x11 ~amd64
+gui-libs/eglexternalplatform ~amd64
+sys-fs/zfs ~amd64
+sys-fs/zfs-kmod ~amd64
+sys-boot/grub ~amd64
